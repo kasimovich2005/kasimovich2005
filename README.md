@@ -1,64 +1,100 @@
 <div align="center">
 
-# 👋 Salom, men Sardor!
-### Frontend Developer | Web App Builder | Lifelong Learner
+# 👋 Hi, I'm Sardor!
+### Frontend Developer & Data Analyst | IT Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Python;Building+beautiful+web+apps;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%96%A5%EF%B8%8F;Data+Analyst+%F0%9F%93%8A;Merging+Code+%2B+Data+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🙋‍♂️ Men haqimda
+## 🙋‍♂️ About Me
 
 ```javascript
 const sardor = {
+  name:        "Sardor Bozorqulov",
   username:    "kasimovich2005",
-  role:        "Frontend Developer",
-  experience:  "1-3 yil",
-  focus:       "Web App loyihalar",
-  learning:    ["React Advanced", "TypeScript", "Node.js"],
-  goal:        "Professional darajaga chiqish va ajoyib web applar yaratish 🚀",
+  roles:       ["Frontend Developer", "Data Analyst"],
+  education:   "Kimyo International University in Tashkent",
+  degree:      "IT Engineering — 3rd year",
+  training:    "MAAB Innovation — SQL, Python, PowerBI",
+  currently:   "Merging Frontend + Data Analytics into one skill set 💡",
+  goal:        "Build data-driven web applications 🚀",
 };
 ```
 
 ---
 
-## 🛠️ Texnologiyalar & Vositalar
+## 🎓 Education & Training
 
-<div align="center">
+| 🏛️ Place | 📚 What I learned | 📅 |
+|----------|------------------|-----|
+| **Kimyo International University** | IT Engineering (Bachelor's — 3rd year) | 2022 – present |
+| **MAAB Innovation** | Data Analytics: SQL · Python · PowerBI + test projects | Completed ✅ |
+
+---
+
+## 🛠️ Tech Stack
+
+### 🖥️ Frontend
+<div>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
+
+### 📊 Data Analytics
+<div>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+### 🔧 Tools
+<div>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 O'rganish yo'li (Learning Journey)
+## 📈 My Learning Journey
 
-| Bosqich | Texnologiya | Holat |
-|---------|-------------|-------|
-| ✅ | HTML & CSS | O'zlashtirilgan |
-| ✅ | JavaScript (ES6+) | O'zlashtirilgan |
-| ✅ | React.js | O'zlashtirilgan |
-| ✅ | SQL & Ma'lumotlar bazasi | O'zlashtirilgan |
-| ✅ | PowerBI | O'zlashtirilgan |
-| 🔄 | TypeScript | O'rganilmoqda |
-| 🔄 | React Advanced Patterns | O'rganilmoqda |
-| 📌 | Node.js / Express | Rejalashtirilgan |
-| 📌 | Docker | Rejalashtirilgan |
+| Status | Skill | Level |
+|--------|-------|-------|
+| ✅ | HTML & CSS | Solid |
+| ✅ | JavaScript (ES6+) | Solid |
+| ✅ | React.js | Intermediate |
+| ✅ | SQL | Intermediate |
+| ✅ | Python (Data Analysis) | Intermediate |
+| ✅ | Power BI | Intermediate |
+| 🔄 | TypeScript | Learning |
+| 🔄 | Data-driven Web Apps | In Progress |
+| 📌 | Node.js / Express | Planned |
+| 📌 | Machine Learning basics | Planned |
 
 ---
 
-## 📊 GitHub Statistika
+## 🚀 What I'm Up To
+
+- 🎓 **Studying** IT Engineering at Kimyo International University (3rd year)
+- 🔭 **Building** projects that combine Frontend + Data Analytics
+- 🌱 **Learning** how to create data-driven web applications
+- 💡 **Goal:** Become a developer who understands both code and data deeply
+- ⚡ **Fun fact:** I can turn raw data into beautiful dashboards AND build the UI to display it!
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -69,28 +105,20 @@ const sardor = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kasimovich2005&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kasimovich2005&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🚀 Hozir nima qilyapman?
-
-- 🔭 **Hozirgi loyiha:** React bilan web app yaratmoqdaman
-- 🌱 **O'rganmoqdaman:** TypeScript va React Advanced patterns
-- 💡 **Maqsad:** Full Stack Developer bo'lish
-- ⚡ **Qiziqarli fakt:** Kodlash + muammolarni hal qilish — mening superkuchim!
-
----
-
-## 📬 Bog'lanish
+## 📬 Contact Me
 
 <div align="center">
 
+[![Telegram](https://img.shields.io/badge/Telegram-kasimovich__s-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/kasimovich_s)
+[![Gmail](https://img.shields.io/badge/Gmail-sardorbozorqulov636@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sardorbozorqulov636@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kasimovich2005-181717?style=for-the-badge&logo=github)](https://github.com/kasimovich2005)
-[![Telegram](https://img.shields.io/badge/Telegram-@username-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/username)
-[![Email](https://img.shields.io/badge/Email-email@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+998888644611-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+998888644611)
 
 </div>
 
@@ -98,8 +126,10 @@ const sardor = {
 
 <div align="center">
 
-### 💬 "Har bir expert bir vaqtlar boshlang'ich bo'lgan."
+### 💬 *"Data without visualization is just numbers. Code without data is just logic. I build both."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kasimovich2005&color=6366F1&style=for-the-badge)
+
+⭐ *Feel free to explore my repositories and leave a star if you find something useful!* ⭐
 
 </div>
