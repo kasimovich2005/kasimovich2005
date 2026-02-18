@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sardor!
+#  Hi, I'm Sardor!
 ### Frontend Developer & Data Analyst | IT Engineering Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%96%A5%EF%B8%8F;Data+Analyst+%F0%9F%93%8A;Merging+Code+%2B+Data+%F0%9F%9A%80;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
